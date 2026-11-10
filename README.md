@@ -87,7 +87,7 @@ Open either notebook and run all cells. Both read the dataset from `data/` and r
 | Member | Contact |
 |---|---|
 | **Azmayeen Aftab** | [GitHub](https://github.com/azmayeen01) · azmayeen.aftab@g.bracu.ac.bd |
-| Labiba Binte Arif | labiba.binte.arif@g.bracu.ac.bd |
+| Labiba Binte Arif | [GitHub](https://github.com/labiba-23) · labiba.binte.arif@g.bracu.ac.bd |
 | Naim Mahmud Peyas | naim.mahmud.peyas@g.bracu.ac.bd |
 
 The revisited analysis was added after the course ended.
